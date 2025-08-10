@@ -1,0 +1,4 @@
+repository "sarıkula beta/sarıkula beta@18968211228659@cloud"
+  path "/"
+    br "/main"
+    co "/main"
